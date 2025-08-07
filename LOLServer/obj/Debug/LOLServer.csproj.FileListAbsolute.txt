@@ -1,0 +1,10 @@
+D:\courseProject\LoLServer\LOLServer\LOLServer\bin\Debug\LOLServer.exe.config
+D:\courseProject\LoLServer\LOLServer\LOLServer\bin\Debug\LOLServer.exe
+D:\courseProject\LoLServer\LOLServer\LOLServer\bin\Debug\LOLServer.pdb
+D:\courseProject\LoLServer\LOLServer\LOLServer\bin\Debug\NetFrame.dll
+D:\courseProject\LoLServer\LOLServer\LOLServer\bin\Debug\Protocol.dll
+D:\courseProject\LoLServer\LOLServer\LOLServer\bin\Debug\NetFrame.pdb
+D:\courseProject\LoLServer\LOLServer\LOLServer\bin\Debug\Protocol.pdb
+D:\courseProject\LoLServer\LOLServer\LOLServer\obj\Debug\LOLServer.csprojResolveAssemblyReference.cache
+D:\courseProject\LoLServer\LOLServer\LOLServer\obj\Debug\LOLServer.exe
+D:\courseProject\LoLServer\LOLServer\LOLServer\obj\Debug\LOLServer.pdb

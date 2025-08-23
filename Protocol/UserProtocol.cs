@@ -4,7 +4,10 @@ using System.Text;
 
 namespace GameProtocol
 {
-   public class UserProtocol
+    /// <summary>
+    /// 用户协议
+    /// </summary>
+    public class UserProtocol
     {
        public const int INFO_CREQ = 0;//获取自身数据
        public const int INFO_SRES = 1;//返回自身数据

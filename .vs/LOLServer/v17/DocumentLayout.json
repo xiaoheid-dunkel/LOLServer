@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\constans\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\constans\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\fightprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\fightprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\loginprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\loginprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\matchprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\matchprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\selectprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\selectprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\userprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\userprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|d:\\lolsource\\lolserver\\server\\lolserver\\protocol\\constans\\herodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6997517-29B4-4601-AADD-400D1D540E48}|Protocol\\Protocol.csproj|solutionrelative:protocol\\constans\\herodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FightProtocol.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\FightProtocol.cs",
+              "RelativeDocumentMoniker": "Protocol\\FightProtocol.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\FightProtocol.cs",
+              "RelativeToolTip": "Protocol\\FightProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:50:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginProtocol.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\LoginProtocol.cs",
+              "RelativeDocumentMoniker": "Protocol\\LoginProtocol.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\LoginProtocol.cs",
+              "RelativeToolTip": "Protocol\\LoginProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:50:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchProtocol.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\MatchProtocol.cs",
+              "RelativeDocumentMoniker": "Protocol\\MatchProtocol.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\MatchProtocol.cs",
+              "RelativeToolTip": "Protocol\\MatchProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:50:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Protocol.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\Protocol.cs",
+              "RelativeDocumentMoniker": "Protocol\\Protocol.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\Protocol.cs",
+              "RelativeToolTip": "Protocol\\Protocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:50:07.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectProtocol.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\SelectProtocol.cs",
+              "RelativeDocumentMoniker": "Protocol\\SelectProtocol.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\SelectProtocol.cs",
+              "RelativeToolTip": "Protocol\\SelectProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:49:03.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProtocol.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\UserProtocol.cs",
+              "RelativeDocumentMoniker": "Protocol\\UserProtocol.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\UserProtocol.cs",
+              "RelativeToolTip": "Protocol\\UserProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:48:41.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroData.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\constans\\HeroData.cs",
+              "RelativeDocumentMoniker": "Protocol\\constans\\HeroData.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\constans\\HeroData.cs",
+              "RelativeToolTip": "Protocol\\constans\\HeroData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:48:23.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillData.cs",
+              "DocumentMoniker": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\constans\\SkillData.cs",
+              "RelativeDocumentMoniker": "Protocol\\constans\\SkillData.cs",
+              "ToolTip": "D:\\LOLSource\\LoLServer\\Server\\LOLServer\\Protocol\\constans\\SkillData.cs",
+              "RelativeToolTip": "Protocol\\constans\\SkillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T09:48:20.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
